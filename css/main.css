@@ -988,6 +988,8 @@ hr {
   position: relative;
 }
 
+
+
 .portfolio-area .portfolio-grid .portfolio-wrapper:before {
   background-color: rgba(0, 0, 0, 0.9);
   bottom: 0;
@@ -1192,6 +1194,12 @@ hr {
  padding: 0 100px 100px 100px;
 
 }
+
+.camper, .bugr {
+       height: 350px;
+}
+
+
 
 @media (max-width: 991.98px) {
   .portfolio-area .lightbox-wrapper .lightbox-gallery {
